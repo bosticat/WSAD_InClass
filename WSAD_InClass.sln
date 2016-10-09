@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSAD_InClass", "WSAD_InClass\WSAD_InClass.csproj", "{199A197F-1A65-4202-926F-C8E97189F295}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSAD_InClass.Tests", "WSAD_InClass.Tests\WSAD_InClass.Tests.csproj", "{C9E83DF7-343F-4882-BE55-623C84C14DBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{199A197F-1A65-4202-926F-C8E97189F295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199A197F-1A65-4202-926F-C8E97189F295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199A197F-1A65-4202-926F-C8E97189F295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199A197F-1A65-4202-926F-C8E97189F295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E83DF7-343F-4882-BE55-623C84C14DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E83DF7-343F-4882-BE55-623C84C14DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E83DF7-343F-4882-BE55-623C84C14DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E83DF7-343F-4882-BE55-623C84C14DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
